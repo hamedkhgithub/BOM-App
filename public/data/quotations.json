@@ -1,0 +1,14 @@
+[
+ {"id":"Q-001","itemId":"ITM-001","supplierId":"SUP-001","price":850000,"currency":"تومان","date":"2026-08-10","validUntil":"2026-12-30","minQty":1},
+ {"id":"Q-002","itemId":"ITM-001","supplierId":"SUP-002","price":950000,"currency":"تومان","date":"2026-10-11","validUntil":"2026-12-30","minQty":1},
+ {"id":"Q-003","itemId":"ITM-002","supplierId":"SUP-001","price":210000,"currency":"تومان","date":"2026-08-10","validUntil":"2026-12-30","minQty":1},
+ {"id":"Q-004","itemId":"ITM-002","supplierId":"SUP-002","price":185000,"currency":"تومان","date":"2026-10-11","validUntil":"2026-12-30","minQty":1},
+ {"id":"Q-005","itemId":"ITM-003","supplierId":"SUP-001","price":1500,"currency":"تومان","date":"2026-09-12","validUntil":"2026-12-30","minQty":1},
+ {"id":"Q-006","itemId":"ITM-004","supplierId":"SUP-001","price":28000,"currency":"تومان","date":"2026-08-12","validUntil":"2026-12-30","minQty":1},
+ {"id":"Q-007","itemId":"ITM-004","supplierId":"SUP-003","price":34000,"currency":"تومان","date":"2026-10-13","validUntil":"2026-12-30","minQty":1},
+ {"id":"Q-008","itemId":"ITM-005","supplierId":"SUP-001","price":1100000,"currency":"تومان","date":"2026-09-01","validUntil":"2026-12-30","minQty":1},
+ {"id":"Q-009","itemId":"ITM-005","supplierId":"SUP-002","price":1300000,"currency":"تومان","date":"2026-10-13","validUntil":"2026-12-30","minQty":1},
+ {"id":"Q-010","itemId":"ITM-006","supplierId":"SUP-003","price":320000,"currency":"تومان","date":"2026-10-13","validUntil":"2026-12-30","minQty":1},
+ {"id":"Q-011","itemId":"ITM-007","supplierId":"SUP-002","price":420000,"currency":"تومان","date":"2026-08-10","validUntil":"2026-12-30","minQty":1},
+ {"id":"Q-012","itemId":"ITM-007","supplierId":"SUP-003","price":480000,"currency":"تومان","date":"2026-10-13","validUntil":"2026-12-30","minQty":1}
+]

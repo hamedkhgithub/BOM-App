@@ -1,0 +1,3 @@
+[
+ {"id":"PRJ-001","type":"project","name":"پروژه نمونه سامانه مخابراتی","status":"Estimate","revision":"00","lines":[{"id":"p11","kind":"assembly","ref":"SYS-001","qty":1,"mode":"reference"},{"id":"p12","kind":"assembly","ref":"SYS-002","qty":1,"mode":"reference"},{"id":"p13","kind":"item","ref":"ITM-004","qty":2,"quotationId":"Q-006"}],"overrides":{},"baselines":[]}
+]

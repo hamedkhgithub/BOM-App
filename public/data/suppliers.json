@@ -1,0 +1,5 @@
+[
+ {"id":"SUP-001","name":"تأمین‌کننده آلفا","contact":"sales@example.com","city":"تهران"},
+ {"id":"SUP-002","name":"تأمین‌کننده بتا","contact":"info@example.org","city":"اصفهان"},
+ {"id":"SUP-003","name":"تأمین‌کننده گاما","contact":"quotes@example.net","city":"شیراز"}
+]

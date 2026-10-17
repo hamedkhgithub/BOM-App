@@ -1,0 +1,9 @@
+[
+ {"id":"ITM-001","name":"میکروکنترلر STM32F407VGT6","mpn":"STM32F407VGT6","manufacturer":"STMicroelectronics","category":"IC","unit":"عدد","attributes":{"Package":"LQFP-100","Core":"ARM Cortex-M4"}},
+ {"id":"ITM-002","name":"رگولاتور LM2596","mpn":"LM2596S-ADJ","manufacturer":"Texas Instruments","category":"IC","unit":"عدد","attributes":{"Type":"Buck Converter"}},
+ {"id":"ITM-003","name":"مقاومت 10kΩ","mpn":"RC0603FR-0710KL","manufacturer":"Yageo","category":"Passive","unit":"عدد","attributes":{"Tolerance":"1%"}},
+ {"id":"ITM-004","name":"کانکتور ۴ پین","mpn":"CONN-4P-2.54","manufacturer":"Generic","category":"Connector","unit":"عدد","attributes":{"Pitch":"2.54 mm"}},
+ {"id":"ITM-005","name":"تقویت‌کننده RF","mpn":"GALI-84+","manufacturer":"Mini-Circuits","category":"RF","unit":"عدد","attributes":{"Type":"RF Amplifier"}},
+ {"id":"ITM-006","name":"فیلتر RF","mpn":"BPF-900-1000","manufacturer":"Generic","category":"RF","unit":"عدد","attributes":{"Band":"900–1000 MHz"}},
+ {"id":"ITM-007","name":"مبدل DC/DC","mpn":"TPS5430DDAR","manufacturer":"Texas Instruments","category":"Power","unit":"عدد","attributes":{"Output":"Adjustable"}}
+]
