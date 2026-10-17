@@ -1,0 +1,46 @@
+[
+  {
+    "id": "TASK-DEMO-01",
+    "title": "بررسی و تأیید فنی ساختار BOM",
+    "projectId": "PRJ-001",
+    "assigneeRole": "tech_manager",
+    "owner": "مالک محصول",
+    "deadline": "",
+    "priority": "بالا",
+    "status": "open",
+    "approvalStep": "technical"
+  },
+  {
+    "id": "TASK-DEMO-02",
+    "title": "بررسی و تأیید تجاری برآورد قیمت",
+    "projectId": "PRJ-001",
+    "assigneeRole": "commercial_manager",
+    "owner": "مالک محصول",
+    "deadline": "",
+    "priority": "بالا",
+    "status": "open",
+    "approvalStep": "commercial"
+  },
+  {
+    "id": "TASK-DEMO-03",
+    "title": "بازبینی تعداد قطعات ماژول گیرنده",
+    "projectId": "PRJ-001",
+    "assigneeRole": "tech",
+    "owner": "مدیر فنی",
+    "deadline": "",
+    "priority": "عادی",
+    "status": "open",
+    "approvalStep": ""
+  },
+  {
+    "id": "TASK-DEMO-04",
+    "title": "پیگیری استعلام جدید اقلام RF",
+    "projectId": "PRJ-001",
+    "assigneeRole": "commercial",
+    "owner": "مدیر بازرگانی",
+    "deadline": "",
+    "priority": "عادی",
+    "status": "open",
+    "approvalStep": ""
+  }
+]
